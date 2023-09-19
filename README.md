@@ -1,7 +1,7 @@
 # BMI Caluclator [Body mass Index]
-###It takes your height and weight as input and caluclate the BMI  Based on that your Category is defined as output
+### It takes your height and weight as input and caluclate the BMI  Based on that your Category is defined as output
 <h3>
-  <a href="">BMI Caluclator</a>
+  <a href="https://bmi-caluclator.vercel.app/">BMI Caluclator</a>
 </h3>
 <h1 align='center'> Technology Stack Used</h1>
 <div align="center">
